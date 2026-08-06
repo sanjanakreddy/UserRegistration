@@ -11,6 +11,7 @@ document.getElementById("registerForm").addEventListener("submit", function(e){
         message.style.color = "red";
     }
     else{
+        alert("Registration Successful!");
         message.innerHTML = "Registration Successful!";
         message.style.color = "green";
     }
