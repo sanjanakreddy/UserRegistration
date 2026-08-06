@@ -8,6 +8,7 @@ body{
     margin:50px auto;
     background:white;
     padding:20px;
+    border: 2px solid blue;
     border-radius:8px;
     box-shadow:0 0 10px gray;
 }
@@ -38,7 +39,7 @@ button{
 }
 
 button:hover{
-    background:darkgreen;
+    background:darkblue;
 }
 
 #message{
